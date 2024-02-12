@@ -1,4 +1,4 @@
-# First ever Portfolio Website
+# My First Portfolio Website
 
 Joshua Sundararaman
 RPI '26
