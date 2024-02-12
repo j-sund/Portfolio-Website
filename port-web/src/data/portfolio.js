@@ -1,18 +1,18 @@
 export default [
     {
         title:"Portfolio Website",
-        imgUrl: "/assets/p2.jpg",
+        imgUrl: "/assets/newWeb.jpg",
         stack: ['React', 'Tailwind', 'Vite'],
         //link: '',
     },
     {
-        title:"Project 2",
-        imgUrl: '/assets/p2.jpg',
-        stack: ['HTML', 'CSS', 'JavaScript'],
+        title:"FinGPT",
+        imgUrl: '/assets/fin.jpg',
+        stack: ['Python', 'Pytorch'],
     },
     {
-        title:"AI Hand Tracker",
-        imgUrl: '/assets/p2.jpg',
-        stack: ['Python', 'Computer Vision'],
+        title:"YACS",
+        imgUrl: '/assets/yacs.png',
+        stack: ['HTML', 'Vue.js', 'Python'],
     },
 ]
